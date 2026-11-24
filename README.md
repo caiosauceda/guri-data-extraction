@@ -113,7 +113,6 @@ O arquivo Excel gerado contém as colunas:
 
 ```text
 .
-├── .gitignore
 ├── app.py
 ├── config.json
 ├── README.md
